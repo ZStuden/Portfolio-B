@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    font-family: Inter;
+    margin: 0;
+    padding: 0;
+}
+
+.header_centered {
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;  
+    padding: 0;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content_links {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.content_links a {
+    padding: 70px;
+    font-size: 3em;
+}
